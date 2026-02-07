@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-07T14:04:55 IST" name="Default suite" finished-at="2026-02-07T14:06:40 IST" duration-ms="104516">
+    <groups>
+    </groups>
+    <test started-at="2026-02-07T14:04:55 IST" name="Default test" finished-at="2026-02-07T14:06:40 IST" duration-ms="104516">
+      <class name="com.demoblaze.DemoBlaze">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:04:55 IST" name="setUp" finished-at="2026-02-07T14:04:59 IST" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:1, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:04:59 IST" name="validLoginTest" finished-at="2026-02-07T14:05:05 IST" duration-ms="6570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:05 IST" name="tearDown" finished-at="2026-02-07T14:05:05 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:05 IST" name="setUp" finished-at="2026-02-07T14:05:08 IST" duration-ms="2848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:2, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:08 IST" name="invalidLoginTest" finished-at="2026-02-07T14:05:13 IST" duration-ms="4511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:13 IST" name="tearDown" finished-at="2026-02-07T14:05:13 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:13 IST" name="setUp" finished-at="2026-02-07T14:05:15 IST" duration-ms="2238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="blankLoginTest()[pri:3, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:15 IST" name="blankLoginTest" finished-at="2026-02-07T14:05:18 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:18 IST" name="tearDown" finished-at="2026-02-07T14:05:18 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:18 IST" name="setUp" finished-at="2026-02-07T14:05:20 IST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct()[pri:4, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:20 IST" name="searchProduct" finished-at="2026-02-07T14:05:25 IST" duration-ms="4971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:25 IST" name="tearDown" finished-at="2026-02-07T14:05:25 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:25 IST" name="setUp" finished-at="2026-02-07T14:05:27 IST" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct1()[pri:5, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:27 IST" name="searchProduct1" finished-at="2026-02-07T14:05:32 IST" duration-ms="4847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:32 IST" name="tearDown" finished-at="2026-02-07T14:05:33 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:33 IST" name="setUp" finished-at="2026-02-07T14:05:34 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addtoCart()[pri:6, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:34 IST" name="addtoCart" finished-at="2026-02-07T14:05:41 IST" duration-ms="6783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:41 IST" name="tearDown" finished-at="2026-02-07T14:05:41 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:41 IST" name="setUp" finished-at="2026-02-07T14:05:43 IST" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductAddedToCart()[pri:7, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:43 IST" name="verifyProductAddedToCart" finished-at="2026-02-07T14:05:49 IST" duration-ms="5954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:49 IST" name="tearDown" finished-at="2026-02-07T14:05:49 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:49 IST" name="setUp" finished-at="2026-02-07T14:05:51 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutTest()[pri:8, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:05:51 IST" name="LogoutTest" finished-at="2026-02-07T14:06:00 IST" duration-ms="8776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:00 IST" name="tearDown" finished-at="2026-02-07T14:06:00 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:00 IST" name="setUp" finished-at="2026-02-07T14:06:02 IST" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="placeOrder()[pri:9, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:02 IST" name="placeOrder" finished-at="2026-02-07T14:06:20 IST" duration-ms="17298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:20 IST" name="tearDown" finished-at="2026-02-07T14:06:20 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:20 IST" name="setUp" finished-at="2026-02-07T14:06:22 IST" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyOrderConfirmation()[pri:10, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:22 IST" name="verifyOrderConfirmation" finished-at="2026-02-07T14:06:39 IST" duration-ms="17155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderConfirmation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.DemoBlaze@1ab3a8c8]" started-at="2026-02-07T14:06:39 IST" name="tearDown" finished-at="2026-02-07T14:06:40 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.DemoBlaze -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
